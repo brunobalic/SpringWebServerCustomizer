@@ -1,0 +1,1 @@
+This is a simple example of how to programmatically customize embedded web server in Spring Boot application.
